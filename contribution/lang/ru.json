@@ -584,11 +584,11 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away",
+ 	 	 	 	"trans": "Боль прочь",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "У тебя мигрень? используй Pain Away™, чтобы избавиться от боли!",
+ 	 	 	 	"trans": "У тебя мигрень? используй "Боль прочь" , чтобы избавиться от боли!",
  	 	 	 	"eng": "Do you have headache? use Pain Away™ to relief your pain!"
  	 	 	}
  	 	},
@@ -664,11 +664,11 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away Spray",
+ 	 	 	 	"trans": " Спрей Боль прочь" ,
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "У вас с другом мигрень? Используйте Pain Away Spray™, чтобы избавиться от боли!",
+ 	 	 	 	"trans": "У вас с другом мигрень? Используйте Спрей Боль прочь, чтобы избавиться от боли!",
  	 	 	 	"eng": "Do you and your friend have headache together? use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
